@@ -1,0 +1,4 @@
+interface:
+  display_name: "实验报告工作流"
+  short_description: "按光电与微波实验规范预习、整理数据、制作报告和抄写版，归档各次文件"
+  default_prompt: "使用 $lab-report-workflow，按当前课程与本次要求完成预习、数据整理、报告修订或文件归档，保留原始记录。"
